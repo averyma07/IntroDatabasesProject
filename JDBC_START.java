@@ -11,7 +11,7 @@ import oracle.jdbc.OraclePreparedStatement;
 
 public class JDBC_START {
 	
-	static final String DB_URL = "jdbc:oracle:thin:@cisvm-oracle.unfcsd.unf.edu:1521:orcl";
+	static final String DB_URL = ""//school database url here;
 	public final int LeftPad = 20;
 	private Connection Con;
 	
